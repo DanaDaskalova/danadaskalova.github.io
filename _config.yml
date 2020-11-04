@@ -4,6 +4,5 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br> I'm a data scientist based in Bulgaria. Here you can see some of my passion projects! <br>
   <br> Main points of focus: data exploration and visualisation; preprocessing and cleaning. Advanced analystics such as regression and classification analysis, time series. 
   <a href="www.linkedin.com/in/dana-daskalova/">View My LinkedIn Profile</a> 
-  
-theme: jekyll-theme-minimal
+
 
