@@ -1,10 +1,10 @@
 title: Dana Daskalova # your name (or website title) here
 logo: "/images/pass-photo.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+   <br> First description 
   <br> I'm a data scientist based in Bulgaria. Here you can see some of my passion projects!
   <br>
-  Second description 
+  <br>  Second description 
   <br> Main points of focus: data exploration and visualisation; preprocessing and cleaning. Advanced analystics such as regression and classification analysis, time series.
   <br>
   <a href="https://https://www.linkedin.com/in/dana-daskalova-24749bb5/">View My LinkedIn Profile</a> 
